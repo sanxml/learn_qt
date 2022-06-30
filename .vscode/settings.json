@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "*.h": "c",
-        "qlabel": "cpp",
-        "qmainwindow": "cpp",
-        "streambuf": "cpp",
-        "qcolordialog": "cpp"
-    }
-}
