@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>Iconsmind-Outline-Bear.ico</file>
+    </qresource>
+</RCC>
