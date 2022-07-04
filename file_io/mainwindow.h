@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include <QTextEdit>
 #include <QFile>
+#include <QTextStream>
 
 namespace Ui {
 class MainWindow;
